@@ -21,7 +21,7 @@
 // SOFTWARE.
 
 #import "ViewController.h"
-#import <UITextView_Placeholder/UITextView+Placeholder.h>
+#import <UITextView_Placeholder/UITextView_Placeholder.h>
 
 @implementation ViewController
 
